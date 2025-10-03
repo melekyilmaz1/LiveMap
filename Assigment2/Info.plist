@@ -2,8 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>MBXAccessToken</key>
+	<string>pk.eyJ1IjoibWVsZWt5IiwiYSI6ImNtZXF2cDFieTAwNWMyaXNic29hcG5mZXUifQ.ggWFPrDJ8yyLJysm5NVB8Q</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>This app needs access to location to show your position on the map.</string>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
+		<key>MBXAccessToken</key>
+		<string>pk.eyJ1IjoibWVsZWt5IiwiYSI6ImNtZXF2cDFieTAwNWMyaXNic29hcG5mZXUifQ.ggWFPrDJ8yyLJysm5NVB8Q</string>
+		<key>UIApplicationSupportsTabbedSceneCollection</key>
+		<false/>
 		<key>UIApplicationSupportsMultipleScenes</key>
 		<false/>
 		<key>UISceneConfigurations</key>
